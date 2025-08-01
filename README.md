@@ -53,11 +53,6 @@ The project focused on analyzing an online retail dataset, creating interactive 
 
 ---
 
-## Certificate
-
-
----
-
 ## Author
 **Kashish**  
 B.Sc (Hons) Mathematics, University of Delhi  
