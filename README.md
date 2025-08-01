@@ -37,7 +37,7 @@ The project focused on analyzing an online retail dataset, creating interactive 
 
 ## Deliverables
 - **Dashboards:**  
-  ![Revenue Trend](monthly_revenue_trend.png)
+  ![Revenue Trend](Monthly_Revenue_Trend.png)
   ![Top Countries](Top_Countries.png)
   ![Top Customers](Top_Customers.png)
   ![Demand Map](Demand_Map.png)
