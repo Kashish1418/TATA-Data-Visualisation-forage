@@ -28,7 +28,7 @@ The project focused on analyzing an online retail dataset, creating interactive 
 ---
 
 ## Tools & Skills Used
-- **Power BI** for dashboards and visualization
+- **Tableau** for dashboards and visualization
 - **Data Cleaning**: Removing duplicates, negative values, fixing dates
 - **Data Analysis**: Trend identification, segmentation, market opportunity analysis
 - **Data Storytelling**: Executive-level presentation
